@@ -9,8 +9,8 @@ Data shows 10840 apps and has 13 features:  ['App', 'Category', 'Rating', 'Revie
 
 Research Hypothesis:
 
-1. Null Hypothesis: On average does free apps on Google Play store have a higher rating than paid apps.
-Alternative Hypothesis: Free apps on Google Play store are not different from paid apps in terms of rating.
+1. Null Hypothesis: On average does free apps on Google Play store have same rating as paid apps.
+Alternative Hypothesis: Free apps on Google Play store are different from paid apps in terms of rating.
 
 2. In these 4 genres, Which one is different in terms of popularity? Entertainment,Education,Medical,Business.
 Null Hypothesis: all variables have the same distribution.
